@@ -1,0 +1,2 @@
+# SIFIF
+This code is an example of model selection. This code is used to calculate and compare the performance of randomly generated models using possible combination up to five variables per model. This code uses cross_validation by dividing the data into training and testing data and then fit the models to the training data and calculate the models performance on the testing data. This model runs in parallel and requires access to supercomputers  
